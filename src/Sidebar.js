@@ -4,7 +4,7 @@ import { links, social } from './data';
 const Sidebar = () => {
   return (
     <>
-      <h4></h4>(
+      <h4>Sidebar</h4>
       <div className="links-container show-container">
         <ul className="links">
           {links.map((link) => {
